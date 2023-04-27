@@ -1,0 +1,20 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.sample.ibm.mq</groupId>
+	<artifactId>ibm-mq-sample</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>ibm-mq-sample</name>
+	<description>ibm-mq-sample</description>
+	<dependencies>
+		<dependency>
+			<groupId>javax.jms</groupId>
+			<artifactId>javax.jms-api</artifactId>
+			<version>2.0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>com.ibm.mq</groupId>
+			<artifactId>com.ibm.mq.allclient</artifactId>
+			<version>9.2.5.0</version>
+		</dependency>
+	</dependencies>
+</project>

@@ -1,0 +1,5 @@
+com\sample\ibm\mq\JmsPut.class
+com\sample\ibm\mq\listener\DemoMessageListener.class
+com\sample\ibm\mq\listener\DemoMessageListenerApplication.class
+com\sample\ibm\mq\JmsPutGet.class
+com\sample\ibm\mq\JmsGet.class
